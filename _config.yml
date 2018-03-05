@@ -13,7 +13,7 @@ head:
 url:
     rss: "/atom.xml"
     daily_pic: "#"
-    logo: "/images/avatar.jpg"
+    logo: "/"
 
 
 # ---------------------------------------------------------------
@@ -26,7 +26,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Are you OK?"
+    slogan: "Welcome"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
